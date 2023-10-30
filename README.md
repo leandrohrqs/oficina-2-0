@@ -21,7 +21,7 @@ Ao lado dos dados, temos também, três botões, sendo eles:
 
 Logo abaixo, temos a paginação.
 
-**Obs:** O código foi feito com apenas 1 semana de estudos, começando o PHP do 0. Abaixo de "Como rodar o projeto", terá o repositório dos estudos
+**Obs:** O código foi feito com apenas 1 semana de estudos, começando o PHP do 0. Abaixo de "Como rodar o projeto", terá o [repositório dos estudos](#Repositórios-de-Estudos)
 
 
 ## Como rodar o projeto
@@ -39,3 +39,9 @@ Logo abaixo, temos a paginação.
 E pronto, o sistema está pronto para ser utilizado
 
 ### Repositórios de Estudos
+
+[Estudo Básico de PHP](https://github.com/ricksz1n/estudo-php-basico)
+
+[Orientação a Objetos com PHP](https://github.com/ricksz1n/estudo-php-oop)
+
+[Estudo Básico de PHP](https://github.com/ricksz1n/estudo-php-laravel)
