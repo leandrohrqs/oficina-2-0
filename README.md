@@ -30,11 +30,13 @@ Logo abaixo, temos a paginação.
 
 2. Crie seu banco de dados, e o informe no .env
 
-3. Faça o migrate com `php artisan migrate`
+3. Execute o comando `composer install`
 
-4. Popule o banco de dados com `php artisan db:seed`
+4. Faça o migrate com `php artisan migrate`
 
-5. Rode o localhost com `php artisan serve`
+5. Popule o banco de dados com `php artisan db:seed`
+
+6. Rode o localhost com `php artisan serve`
 
 E pronto, o sistema está pronto para ser utilizado
 
